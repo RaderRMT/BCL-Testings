@@ -1,0 +1,6 @@
+var value = 26;
+if (value != 15) {
+    print "A";
+} else {
+    print "B";
+}
